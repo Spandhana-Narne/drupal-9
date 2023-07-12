@@ -1,0 +1,4 @@
+name: Custom Block for Form
+type: module
+description: 'Custom Block for Form'
+core_version_requirement: ^8 || ^9

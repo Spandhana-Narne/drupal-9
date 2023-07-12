@@ -1,0 +1,7 @@
+custom_hooks.example:
+  path: '/custom/hook/example'
+  defaults:
+    _controller: '\Drupal\custom_hooks\Controller\CustomHooksController::example'
+    _title: 'Custom Hook Example'
+  requirements:
+    _permission: 'access content'

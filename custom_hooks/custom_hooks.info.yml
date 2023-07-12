@@ -1,0 +1,5 @@
+name: 'Custom Hooks'
+type: module
+description: 'Example module demonstrating custom hook in Drupal 9'
+core_version_requirement: ^9 || ^8
+package: Custom
